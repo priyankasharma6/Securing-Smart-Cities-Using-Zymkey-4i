@@ -1,0 +1,267 @@
+
+Perimeter event detected at 2020-04-23  19:08:10.152125
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587694031
+     perimeter[1] timestamp = 1587694032
+Perimeter event detected at 2020-04-23  19:08:11.791407
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587694090
+     perimeter[1] timestamp = 1587694090
+Perimeter event detected at 2020-04-23  19:08:13.360593
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587694091
+     perimeter[1] timestamp = 1587694091
+Perimeter event detected at 2020-04-23  19:08:14.958851
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587694093
+     perimeter[1] timestamp = 1587694093
+Perimeter event detected at 2020-04-23  19:08:16.555781
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587694094
+     perimeter[1] timestamp = 1587694094
+Perimeter event detected at 2020-04-23  19:08:18.156794
+  Breach in the inner loop has been detected!
+     perimeter[0] timestamp = 1587694096
+     perimeter[1] timestamp = 0
+Perimeter event detected at 2020-04-23  19:08:19.765812
+  Breach in the inner loop has been detected!
+     perimeter[0] timestamp = 1587694098
+     perimeter[1] timestamp = 0
+Perimeter event detected at 2020-04-23  19:08:21.361847
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587694099
+     perimeter[1] timestamp = 1587694100
+Perimeter event detected at 2020-04-23  19:09:18.367566
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587694102
+     perimeter[1] timestamp = 1587694103
+Perimeter event detected at 2020-04-23  19:09:20.025138
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587694158
+     perimeter[1] timestamp = 1587694158
+Perimeter event detected at 2020-04-23  19:09:21.638725
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587694160
+     perimeter[1] timestamp = 1587694160
+Perimeter event detected at 2020-04-23  19:09:23.290519
+  Breach in the inner loop has been detected!
+     perimeter[0] timestamp = 1587694161
+     perimeter[1] timestamp = 0
+Perimeter event detected at 2020-04-23  19:09:23.897399
+     perimeter[0] timestamp = 0
+     perimeter[1] timestamp = 0
+Perimeter event detected at 2020-04-23  19:09:59.816135
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587694173
+     perimeter[1] timestamp = 1587694173
+Perimeter event detected at 2020-04-23  19:10:01.447228
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587694199
+     perimeter[1] timestamp = 1587694199
+Perimeter event detected at 2020-04-23  19:10:03.057471
+  Breach in the inner loop has been detected!
+     perimeter[0] timestamp = 1587694201
+     perimeter[1] timestamp = 0
+Perimeter event detected at 2020-04-23  19:10:03.660220
+     perimeter[0] timestamp = 0
+     perimeter[1] timestamp = 0
+Nothing going on at 2020-04-23  19:10:06.193872
+Nothing going on at 2020-04-23  19:10:08.260873
+Nothing going on at 2020-04-23  19:10:10.308409
+Nothing going on at 2020-04-23  19:10:12.345823
+Nothing going on at 2020-04-23  19:10:14.389503
+Nothing going on at 2020-04-23  19:10:16.448286
+Perimeter event detected at 2020-04-23  19:12:47.636689
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587694217
+     perimeter[1] timestamp = 1587694216
+Perimeter event detected at 2020-04-23  19:12:49.260093
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 0
+     perimeter[1] timestamp = 1587694367
+Perimeter event detected at 2020-04-23  19:12:50.857985
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 0
+     perimeter[1] timestamp = 1587694369
+Perimeter event detected at 2020-04-23  19:12:51.437061
+     perimeter[0] timestamp = 0
+     perimeter[1] timestamp = 0
+Perimeter event detected at 2020-04-23  19:12:53.422042
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 0
+     perimeter[1] timestamp = 1587694372
+Perimeter event detected at 2020-04-23  19:12:54.120034
+     perimeter[0] timestamp = 0
+     perimeter[1] timestamp = 0
+Nothing going on at 2020-04-23  19:12:56.664124
+Nothing going on at 2020-04-23  19:12:58.710687
+Nothing going on at 2020-04-23  19:13:00.754106
+Nothing going on at 2020-04-23  19:13:02.796220
+Perimeter event detected at 2020-04-23  19:13:03.837141
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 0
+     perimeter[1] timestamp = 1587694382
+Perimeter event detected at 2020-04-23  19:18:22.161350
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 0
+     perimeter[1] timestamp = 1587694384
+Nothing going on at 2020-04-23  19:18:26.330605
+Nothing going on at 2020-04-23  19:18:28.351057
+Nothing going on at 2020-04-23  19:18:30.380097
+Nothing going on at 2020-04-23  19:18:32.411216
+Perimeter event detected at 2020-04-23  19:18:34.108445
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 0
+     perimeter[1] timestamp = 1587694712
+Perimeter event detected at 2020-04-23  19:18:36.956993
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 0
+     perimeter[1] timestamp = 1587694715
+Perimeter event detected at 2020-04-23  19:18:38.781890
+     perimeter[0] timestamp = 0
+     perimeter[1] timestamp = 0
+Nothing going on at 2020-04-23  19:18:41.959896
+Perimeter event detected at 2020-04-23  22:06:46.631806
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587699915
+     perimeter[1] timestamp = 1587694835
+Perimeter event detected at 2020-04-23  22:06:49.894988
+  Breach in the inner loop has been detected!
+     perimeter[0] timestamp = 1587704808
+     perimeter[1] timestamp = 0
+Perimeter event detected at 2020-04-23  22:06:52.566702
+  Breach in the inner loop has been detected!
+     perimeter[0] timestamp = 1587704810
+     perimeter[1] timestamp = 0
+Perimeter event detected at 2020-04-23  22:15:53.974574
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587704813
+     perimeter[1] timestamp = 1587705106
+Perimeter event detected at 2020-04-23  22:15:55.649036
+  Breach in the inner loop has been detected!
+     perimeter[0] timestamp = 1587705353
+     perimeter[1] timestamp = 0
+Perimeter event detected at 2020-04-23  22:38:43.402297
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587705355
+     perimeter[1] timestamp = 1587705572
+Perimeter event detected at 2020-04-23  22:38:45.071414
+  Breach in the inner loop has been detected!
+     perimeter[0] timestamp = 1587706723
+     perimeter[1] timestamp = 0
+Perimeter event detected at 2020-04-23  22:38:46.614522
+  Breach in the inner loop has been detected!
+     perimeter[0] timestamp = 1587706724
+     perimeter[1] timestamp = 0
+Perimeter event detected at 2020-04-23  22:38:48.180265
+  Breach in the inner loop has been detected!
+     perimeter[0] timestamp = 1587706726
+     perimeter[1] timestamp = 0
+Perimeter event detected at 2020-04-23  22:38:49.761593
+  Breach in the inner loop has been detected!
+     perimeter[0] timestamp = 1587706728
+     perimeter[1] timestamp = 0
+Perimeter event detected at 2020-04-23  22:38:50.284482
+     perimeter[0] timestamp = 0
+     perimeter[1] timestamp = 0
+Nothing going on at 2020-04-23  22:38:52.793558
+Perimeter event detected at 2020-04-23  23:26:16.597267
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587706734
+     perimeter[1] timestamp = 1587707373
+Nothing going on at 2020-04-23  23:28:10.369883
+Nothing going on at 2020-04-23  23:29:28.534997
+Nothing going on at 2020-04-23  23:30:12.553104
+Nothing going on at 2020-04-23  23:30:14.582251
+Nothing going on at 2020-04-23  23:34:40.514508
+Nothing going on at 2020-04-23  23:34:42.548097
+Nothing going on at 2020-04-23  23:34:44.592283
+Nothing going on at 2020-04-23  23:34:46.639358
+Nothing going on at 2020-04-23  23:34:48.685081
+Perimeter event detected at 2020-04-23  23:34:50.372745
+  Breach in the inner loop has been detected!
+     perimeter[0] timestamp = 1587710088
+     perimeter[1] timestamp = 0
+Perimeter event detected at 2020-04-23  23:34:53.507865
+  Breach in the inner loop has been detected!
+     perimeter[0] timestamp = 1587710091
+     perimeter[1] timestamp = 0
+Perimeter event detected at 2020-04-23  23:35:57.836996
+  Breach in the inner loop has been detected!
+     perimeter[0] timestamp = 1587710093
+     perimeter[1] timestamp = 0
+Perimeter event detected at 2020-04-23  23:36:47.502809
+  Breach in the inner loop has been detected!
+     perimeter[0] timestamp = 1587710159
+     perimeter[1] timestamp = 0
+Perimeter event detected at 2020-04-23  23:36:49.214139
+  Breach in the inner loop has been detected!
+     perimeter[0] timestamp = 1587710207
+     perimeter[1] timestamp = 0
+Perimeter event detected at 2020-04-23  23:36:50.891399
+  Breach in the inner loop has been detected!
+     perimeter[0] timestamp = 1587710209
+     perimeter[1] timestamp = 0
+Nothing going on at 2020-04-24  09:14:29.784379
+Nothing going on at 2020-04-24  09:15:01.353443
+Nothing going on at 2020-04-24  09:15:03.373385
+Nothing going on at 2020-04-24  09:15:05.406665
+Nothing going on at 2020-04-24  09:15:07.449597
+Nothing going on at 2020-04-24  09:15:09.484588
+Nothing going on at 2020-04-24  09:15:11.517620
+Nothing going on at 2020-04-24  09:15:13.555160
+Nothing going on at 2020-04-24  09:15:15.592966
+Nothing going on at 2020-04-24  09:15:17.626760
+Nothing going on at 2020-04-24  09:15:19.657966
+Nothing going on at 2020-04-24  09:15:21.693313
+Nothing going on at 2020-04-24  09:15:23.719995
+Nothing going on at 2020-04-24  09:15:25.761461
+Nothing going on at 2020-04-24  09:15:27.806868
+Nothing going on at 2020-04-24  09:15:29.856834
+Nothing going on at 2020-04-24  09:15:31.901200
+Nothing going on at 2020-04-24  09:15:33.946995
+Nothing going on at 2020-04-24  09:15:35.993823
+Nothing going on at 2020-04-24  09:15:38.035811
+Nothing going on at 2020-04-24  09:15:40.077461
+Perimeter event detected at 2020-04-24  09:15:41.765607
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587710210
+     perimeter[1] timestamp = 1587744940
+Perimeter event detected at 2020-04-24  09:15:45.134490
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587744943
+     perimeter[1] timestamp = 1587744943
+Perimeter event detected at 2020-04-24  09:15:48.457680
+  Breach in the inner loop has been detected!
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 1587744946
+     perimeter[1] timestamp = 1587744946
+Perimeter event detected at 2020-04-24  09:15:51.281683
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 0
+     perimeter[1] timestamp = 1587744949
+Perimeter event detected at 2020-04-24  09:15:54.161616
+  Breach in the outer loop has been detected!
+     perimeter[0] timestamp = 0
+     perimeter[1] timestamp = 1587744952
+Perimeter event detected at 2020-04-24  09:15:55.974455
+     perimeter[0] timestamp = 0
+     perimeter[1] timestamp = 0

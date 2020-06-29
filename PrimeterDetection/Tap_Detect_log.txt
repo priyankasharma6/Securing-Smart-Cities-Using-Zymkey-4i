@@ -1,0 +1,850 @@
+No tap is detected.
+Raw accelerometer data:2020-04-21  22:04:07.139015
+    g-force = -0.023443223908543587 tap dir = 0
+    g-force = 0.027350427582859993 tap dir = 1
+    g-force = -0.9650793671607971 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-21  22:04:09.198725
+    g-force = -0.03907204046845436 tap dir = 0
+    g-force = 0.027350427582859993 tap dir = 1
+    g-force = -0.9611721634864807 tap dir = 1
+Tap detected!
+Raw accelerometer data:2020-04-21  22:04:09.516773
+    g-force = -0.07032967358827591 tap dir = 0
+    g-force = 0.03125763311982155 tap dir = 1
+    g-force = -0.9885225892066956 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-21  22:04:11.311933
+    g-force = -0.027350427582859993 tap dir = 0
+    g-force = 0.027350427582859993 tap dir = 1
+    g-force = -0.9650793671607971 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-21  22:04:13.377959
+    g-force = -0.01953602023422718 tap dir = 0
+    g-force = 0.027350427582859993 tap dir = 1
+    g-force = -0.9768009781837463 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-21  22:04:15.443930
+    g-force = -0.027350427582859993 tap dir = 0
+    g-force = 0.04297924414277077 tap dir = 1
+    g-force = -0.9768009781837463 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:19.106632
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:21.186956
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = 0.007814408279955387 tap dir = 0
+    g-force = -0.9611721634864807 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:23.251278
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9611721634864807 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:25.314858
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:27.397157
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:29.457022
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9611721634864807 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:31.518555
+    g-force = 0.04688644781708717 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:33.597770
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:35.661733
+    g-force = 0.03125763311982155 tap dir = 0
+    g-force = 0.007814408279955387 tap dir = 0
+    g-force = -0.9846153855323792 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:37.722622
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = 1
+Tap detected!
+Raw accelerometer data:2020-04-22  19:38:39.871525
+    g-force = 0.007814408279955387 tap dir = 0
+    g-force = 0.027350427582859993 tap dir = 0
+    g-force = -0.9103785157203674 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:41.723038
+    g-force = 0.03125763311982155 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9572649598121643 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:43.785313
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9768009781837463 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:45.865115
+    g-force = 0.04688644781708717 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9807081818580627 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:47.937321
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:50.007904
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9611721634864807 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:52.082018
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:54.225801
+    g-force = 0.04688644781708717 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9494505524635315 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:56.300236
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9768009781837463 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:38:58.372389
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = 0.007814408279955387 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:00.453498
+    g-force = 0.04688644781708717 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:02.532605
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9611721634864807 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:04.601736
+    g-force = 0.03125763311982155 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = 1
+Tap detected!
+Raw accelerometer data:2020-04-22  19:39:04.727697
+    g-force = 0.05079365149140358 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9221001267433167 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:06.181876
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = 0.007814408279955387 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = -1
+Tap detected!
+Raw accelerometer data:2020-04-22  19:39:07.316902
+    g-force = 0.023443223908543587 tap dir = 0
+    g-force = -0.03907204046845436 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:08.647928
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:10.719133
+    g-force = 0.04688644781708717 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:12.805118
+    g-force = 0.027350427582859993 tap dir = 0
+    g-force = -0.023443223908543587 tap dir = 0
+    g-force = -0.9416361451148987 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:14.874274
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:16.946411
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9807081818580627 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:19.027492
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9807081818580627 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:21.111313
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9768009781837463 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:23.181328
+    g-force = 0.04688644781708717 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:25.251531
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:27.336869
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9807081818580627 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:29.407798
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9768009781837463 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:31.476857
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = -1
+Tap detected!
+Raw accelerometer data:2020-04-22  19:39:33.015899
+    g-force = 0.03125763311982155 tap dir = 0
+    g-force = -0.011721611954271793 tap dir = 0
+    g-force = -0.9768009781837463 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:34.442787
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:36.525931
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:38.596973
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:40.667271
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9768009781837463 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:42.759463
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:44.831514
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:46.901791
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:48.992770
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:51.064046
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = 0.007814408279955387 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:53.137480
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:55.207484
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:57.287302
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:39:59.358496
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:01.428662
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:03.510788
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9768009781837463 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:05.581950
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9611721634864807 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:07.652053
+    g-force = 0.03125763311982155 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:09.816409
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:11.885560
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:13.957431
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9572649598121643 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:16.044844
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = -1
+Tap detected!
+Raw accelerometer data:2020-04-22  19:40:16.177819
+    g-force = 0.04688644781708717 tap dir = 0
+    g-force = 0.007814408279955387 tap dir = 0
+    g-force = -0.9416361451148987 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:17.549465
+    g-force = 0.04688644781708717 tap dir = 0
+    g-force = 0.0664224699139595 tap dir = 0
+    g-force = -0.8009768128395081 tap dir = 1
+Tap detected!
+Raw accelerometer data:2020-04-22  19:40:17.596450
+    g-force = 0.04688644781708717 tap dir = 0
+    g-force = -0.007814408279955387 tap dir = 0
+    g-force = -1.0002442598342896 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:18.895890
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = 1
+Tap detected!
+Raw accelerometer data:2020-04-22  19:40:18.966910
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9572649598121643 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:20.265025
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:22.338248
+    g-force = 0.04688644781708717 tap dir = 0
+    g-force = 0.007814408279955387 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:24.500378
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:26.569606
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:28.645570
+    g-force = 0.03125763311982155 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:30.728030
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9768009781837463 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:32.799813
+    g-force = 0.03125763311982155 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9807081818580627 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:34.872800
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:36.936786
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:39.007119
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.007814408279955387 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:41.077333
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9611721634864807 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:43.152246
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.007814408279955387 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:45.232112
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:47.303101
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = -0.007814408279955387 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:49.372866
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = 0.007814408279955387 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:51.452726
+    g-force = 0.03125763311982155 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:53.523945
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9846153855323792 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:55.595579
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9768009781837463 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:57.685468
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9611721634864807 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:40:59.755380
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:01.825188
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9807081818580627 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:03.906206
+    g-force = 0.03125763311982155 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9768009781837463 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:05.975804
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:08.044851
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:10.116861
+    g-force = 0.04688644781708717 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:12.197825
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9611721634864807 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:14.268837
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:16.341622
+    g-force = 0.03907204046845436 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:18.421388
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:20.491396
+    g-force = 0.04688644781708717 tap dir = 0
+    g-force = -0.007814408279955387 tap dir = 0
+    g-force = -0.9768009781837463 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:22.566017
+    g-force = 0.04297924414277077 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:24.729433
+    g-force = 0.03125763311982155 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9611721634864807 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:26.799239
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9768009781837463 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:28.869150
+    g-force = 0.03125763311982155 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9572649598121643 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:30.949838
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:33.018825
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = 0.007814408279955387 tap dir = 0
+    g-force = -0.9768009781837463 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:35.091993
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = -0.9572649598121643 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:37.162826
+    g-force = 0.035164836794137955 tap dir = 0
+    g-force = -0.007814408279955387 tap dir = 0
+    g-force = -0.9768009781837463 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:39.328890
+    g-force = 0.054700855165719986 tap dir = 0
+    g-force = 0.011721611954271793 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-22  19:41:41.415758
+    g-force = 0.04688644781708717 tap dir = 0
+    g-force = 0.0 tap dir = 0
+    g-force = -0.9768009781837463 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-23  22:14:10.997222
+    g-force = 0.01953602023422718 tap dir = 0
+    g-force = 0.07423687726259232 tap dir = 0
+    g-force = -0.9768009781837463 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-23  22:14:13.063044
+    g-force = 0.023443223908543587 tap dir = 0
+    g-force = 0.0664224699139595 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-23  22:14:15.124122
+    g-force = 0.01953602023422718 tap dir = 0
+    g-force = 0.07032967358827591 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = 1
+Tap detected!
+Raw accelerometer data:2020-04-23  22:14:15.342964
+    g-force = 0.01953602023422718 tap dir = 0
+    g-force = 0.04688644781708717 tap dir = 0
+    g-force = -0.9533577561378479 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-23  22:14:17.380921
+    g-force = 0.03125763311982155 tap dir = 0
+    g-force = 0.0664224699139595 tap dir = 0
+    g-force = -0.9611721634864807 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-23  22:14:19.442025
+    g-force = 0.015628816559910774 tap dir = 0
+    g-force = 0.054700855165719986 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-23  22:14:21.505584
+    g-force = 0.023443223908543587 tap dir = 0
+    g-force = 0.0625152662396431 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = 1
+Tap detected!
+Raw accelerometer data:2020-04-23  22:14:22.330305
+    g-force = 0.03125763311982155 tap dir = 0
+    g-force = 0.054700855165719986 tap dir = 0
+    g-force = -0.9572649598121643 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-23  22:14:23.656212
+    g-force = 0.01953602023422718 tap dir = 0
+    g-force = 0.0625152662396431 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-23  22:14:25.727222
+    g-force = 0.01953602023422718 tap dir = 0
+    g-force = 0.0664224699139595 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-23  22:14:27.796399
+    g-force = 0.015628816559910774 tap dir = 0
+    g-force = 0.0664224699139595 tap dir = 0
+    g-force = -0.9611721634864807 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-23  22:14:29.876053
+    g-force = 0.027350427582859993 tap dir = 0
+    g-force = 0.0625152662396431 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-23  22:14:32.018873
+    g-force = 0.015628816559910774 tap dir = 0
+    g-force = 0.0664224699139595 tap dir = 0
+    g-force = -0.9611721634864807 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-23  23:25:36.451733
+    g-force = 0.01953602023422718 tap dir = 0
+    g-force = 0.07032967358827591 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+Tap detected!
+Raw accelerometer data:2020-04-23  23:25:38.390600
+    g-force = 0.027350427582859993 tap dir = 0
+    g-force = 0.07814408093690872 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-23  23:25:38.612431
+    g-force = 0.023443223908543587 tap dir = 0
+    g-force = 0.0664224699139595 tap dir = 0
+    g-force = -0.9611721634864807 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-23  23:25:40.692983
+    g-force = 0.01953602023422718 tap dir = 0
+    g-force = 0.07423687726259232 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-23  23:25:42.765581
+    g-force = 0.01953602023422718 tap dir = 0
+    g-force = 0.0664224699139595 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-23  23:25:44.834285
+    g-force = 0.027350427582859993 tap dir = 0
+    g-force = 0.07032967358827591 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = 1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:16:26.782017
+    g-force = -0.007814408279955387 tap dir = 1
+    g-force = 0.07814408093690872 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = 0
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:16:28.855006
+    g-force = -0.0039072041399776936 tap dir = 1
+    g-force = 0.07814408093690872 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = 0
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:16:30.934804
+    g-force = -0.007814408279955387 tap dir = 1
+    g-force = 0.07814408093690872 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = 0
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:16:33.005682
+    g-force = -0.007814408279955387 tap dir = 1
+    g-force = 0.07032967358827591 tap dir = 0
+    g-force = -0.9494505524635315 tap dir = 0
+Tap detected!
+Raw accelerometer data:2020-04-24  09:16:33.208539
+    g-force = 0.0 tap dir = 0
+    g-force = 0.07032967358827591 tap dir = 1
+    g-force = -0.9728937745094299 tap dir = 0
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:16:35.016501
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = 0.07423687726259232 tap dir = 1
+    g-force = -0.9728937745094299 tap dir = 0
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:16:37.091123
+    g-force = -0.007814408279955387 tap dir = 0
+    g-force = 0.07814408093690872 tap dir = 1
+    g-force = -0.9768009781837463 tap dir = 0
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:16:39.171849
+    g-force = 0.0 tap dir = 0
+    g-force = 0.07423687726259232 tap dir = 1
+    g-force = -0.9689865708351135 tap dir = 0
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:16:41.241497
+    g-force = 0.0 tap dir = 0
+    g-force = 0.08205128461122513 tap dir = 1
+    g-force = -0.9689865708351135 tap dir = 0
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:16:43.311666
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = 0.07032967358827591 tap dir = 1
+    g-force = -0.9728937745094299 tap dir = 0
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:16:45.402067
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = 0.07423687726259232 tap dir = 1
+    g-force = -0.9728937745094299 tap dir = 0
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:16:47.474120
+    g-force = -0.007814408279955387 tap dir = 0
+    g-force = 0.07423687726259232 tap dir = 1
+    g-force = -0.9650793671607971 tap dir = 0
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:16:49.542252
+    g-force = 0.0 tap dir = 0
+    g-force = 0.07423687726259232 tap dir = 1
+    g-force = -0.9728937745094299 tap dir = 0
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:16:51.634097
+    g-force = 0.0 tap dir = 0
+    g-force = 0.07814408093690872 tap dir = 1
+    g-force = -0.9650793671607971 tap dir = 0
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:16:53.704229
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = 0.07814408093690872 tap dir = 1
+    g-force = -0.9728937745094299 tap dir = 0
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:16:55.776078
+    g-force = 0.0 tap dir = 0
+    g-force = 0.08205128461122513 tap dir = 1
+    g-force = -0.9689865708351135 tap dir = 0
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:16:57.927614
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = 0.07032967358827591 tap dir = 1
+    g-force = -0.9768009781837463 tap dir = 0
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:16:59.996132
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = 0.07814408093690872 tap dir = 1
+    g-force = -0.9650793671607971 tap dir = 0
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:02.065900
+    g-force = -0.0039072041399776936 tap dir = 0
+    g-force = 0.07814408093690872 tap dir = 1
+    g-force = -0.9728937745094299 tap dir = 0
+Tap detected!
+Raw accelerometer data:2020-04-24  09:17:03.348858
+    g-force = 0.01953602023422718 tap dir = 0
+    g-force = 0.07423687726259232 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:05.716829
+    g-force = 0.01953602023422718 tap dir = 0
+    g-force = 0.07814408093690872 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:07.785895
+    g-force = 0.0 tap dir = 0
+    g-force = 0.07423687726259232 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:09.867633
+    g-force = 0.011721611954271793 tap dir = 0
+    g-force = 0.07814408093690872 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:11.935567
+    g-force = 0.011721611954271793 tap dir = 0
+    g-force = 0.07423687726259232 tap dir = 0
+    g-force = -0.9807081818580627 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:14.004545
+    g-force = 0.0 tap dir = 0
+    g-force = 0.07423687726259232 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:16.073436
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = 0.07423687726259232 tap dir = 0
+    g-force = -0.9807081818580627 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:18.153269
+    g-force = 0.0 tap dir = 0
+    g-force = 0.07814408093690872 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:20.222442
+    g-force = 0.011721611954271793 tap dir = 0
+    g-force = 0.07814408093690872 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:22.291566
+    g-force = 0.007814408279955387 tap dir = 0
+    g-force = 0.07032967358827591 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:24.371279
+    g-force = 0.007814408279955387 tap dir = 0
+    g-force = 0.07423687726259232 tap dir = 0
+    g-force = -0.9611721634864807 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:26.444083
+    g-force = 0.007814408279955387 tap dir = 0
+    g-force = 0.07423687726259232 tap dir = 0
+    g-force = -0.9611721634864807 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:28.514172
+    g-force = 0.007814408279955387 tap dir = 0
+    g-force = 0.07423687726259232 tap dir = 0
+    g-force = -0.9611721634864807 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:30.594110
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = 0.0664224699139595 tap dir = 0
+    g-force = -0.992429792881012 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:32.666240
+    g-force = 0.011721611954271793 tap dir = 0
+    g-force = 0.07032967358827591 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:34.735144
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = 0.07032967358827591 tap dir = 0
+    g-force = -0.9963369965553284 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:36.815360
+    g-force = 0.0039072041399776936 tap dir = 0
+    g-force = 0.07814408093690872 tap dir = 0
+    g-force = -0.9728937745094299 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:38.883886
+    g-force = 0.007814408279955387 tap dir = 0
+    g-force = 0.07423687726259232 tap dir = 0
+    g-force = -0.9572649598121643 tap dir = -1
+Tap detected!
+Raw accelerometer data:2020-04-24  09:17:39.314425
+    g-force = 0.015628816559910774 tap dir = 0
+    g-force = 0.08595848828554153 tap dir = 0
+    g-force = -0.9611721634864807 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:40.719072
+    g-force = 0.007814408279955387 tap dir = 0
+    g-force = 0.07423687726259232 tap dir = 0
+    g-force = -0.9650793671607971 tap dir = -1
+No tap is detected.
+Raw accelerometer data:2020-04-24  09:17:42.883147
+    g-force = 0.011721611954271793 tap dir = 0
+    g-force = 0.07814408093690872 tap dir = 0
+    g-force = -0.9689865708351135 tap dir = -1
